@@ -41,3 +41,4 @@ public class EncapsulacionEjemplo {
         System.out.println("Nuevo nombre: " + persona.getNombre());  
     }
 }
+//fin
